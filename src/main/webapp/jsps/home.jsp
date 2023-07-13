@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Vessels Technologies. Ph No: India </h1>
-<h1 align="center"> Vessels Technologies- Training center for Docker with AWS in  India...Teaching Real Time scnerios</h1>
+<h1 align="center"> Vessels Technologies- Training center for Docker and kubernetes in India...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
